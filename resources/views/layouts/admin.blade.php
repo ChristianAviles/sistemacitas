@@ -128,7 +128,7 @@
         <div class="pull-right hidden-xs">
           <b>Version</b> 1.0.1
         </div>
-        <strong>Copyright &copy; 2021 Desarrollado por Ing. Christian Aviles.
+        <strong>Copyright &copy; 2021.
       </footer>
 
       
