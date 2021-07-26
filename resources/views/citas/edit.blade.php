@@ -46,8 +46,8 @@
            <input type="text" name="kilometraje" class="form-control" value="{{$cliente->kilometraje}}" placeholder="Kilometraje...">
        </div>
        <div class="form-group">
-           
-           <button class="btn btn-danger" type="reset">Cancelar</button>
+            <button class="btn btn-primary" type="submit">Editar</button>   
+            <button class="btn btn-danger" type="reset">Cancelar</button>
        </div>
 
        {!!Form::close()!!}

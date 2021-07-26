@@ -29,7 +29,7 @@
                             <td>{{$cit->fecha}}</td>
                             <td>{{$cit->descripcion}}</td>
                             <td>
-                                <a href="{{URL::action('CitasController@edit', $cit->idcitas)}}"><button class="btn btn-info">Editar</button></a>
+                                <!-- <a href="{{URL::action('CitasController@edit', $cit->idcitas)}}"><button class="btn btn-info">Editar</button></a> -->
                                 <a href="" data-target="#modal-delete-{{$cit->idcitas}}" data-toggle="modal"></data-toggle>><button class="btn btn-danger">Eliminar</button></a>
                             </td>
                         </tr>
